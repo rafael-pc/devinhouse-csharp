@@ -1,4 +1,4 @@
-﻿namespace Ex06
+﻿namespace Semana.Ex06
 {
     internal class Inverter
     {

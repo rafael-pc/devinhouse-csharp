@@ -1,4 +1,4 @@
-﻿namespace Ex11
+﻿namespace Semana.Ex11
 {
     internal class InvertNumber
     {

@@ -1,4 +1,4 @@
-﻿namespace Ex07
+﻿namespace Semana.Ex07
 {
     internal class Media
     {

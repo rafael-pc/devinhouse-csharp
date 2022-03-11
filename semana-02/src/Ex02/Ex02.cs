@@ -1,8 +1,7 @@
-﻿namespace Ex02
+﻿namespace Semana.Ex02
 {
     class Variaveis
-    {
-        
+    {    
         public static void Main() 
         {
             var name = true;
@@ -22,6 +21,5 @@
                 Console.WriteLine($"'{name}' é um bool.");
             }
         }
-
     }
 }

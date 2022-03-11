@@ -1,4 +1,4 @@
-﻿namespace Ex09
+﻿namespace Semana.Ex09
 {
     internal class Pizza
     {

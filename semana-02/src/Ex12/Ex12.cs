@@ -1,6 +1,6 @@
-﻿namespace TIC_TAC_TOE
+﻿namespace Semana2.Ex12  
 {
-    class Program
+    class TIC_TAC_TOE
     {
         //criando array e
         //por padrão estou fornecendo 0-9 onde não há uso de zero

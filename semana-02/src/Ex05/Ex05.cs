@@ -1,4 +1,4 @@
-﻿namespace Ex05
+﻿namespace Semana.Ex05
 {
     internal class Arredondamento
     {

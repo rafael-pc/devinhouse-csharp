@@ -1,4 +1,4 @@
-﻿namespace Ex10
+﻿namespace Semana.Ex10
 {
     internal class Notas
     {

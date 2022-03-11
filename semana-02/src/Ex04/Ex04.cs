@@ -1,4 +1,4 @@
-﻿namespace Ex04
+﻿namespace Semana.Ex04
 {
     internal class Variaveis
     {

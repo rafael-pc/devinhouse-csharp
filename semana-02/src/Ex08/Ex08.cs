@@ -1,4 +1,4 @@
-﻿namespace Ex08
+﻿namespace Semana.Ex08
 {
     internal class Fatorial
     {

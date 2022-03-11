@@ -1,4 +1,4 @@
-﻿namespace Ex03
+﻿namespace Semana.Ex03
 {
     internal class Name
     {
